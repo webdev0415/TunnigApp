@@ -1,0 +1,15 @@
+{
+    "label":"Select Payment Method",
+    "card_number":"Card Number:",
+    "expire_date":"Expiry Date:",
+    "cardholder_name": "Cardholder Name:",
+    "ccv": "CCV/CVV:",
+    "deposit_currency": "Deposit Currency",
+    "deposit_amount": "Deposit Amount",
+    "processing_fee": "Processing Fee", 
+    "total_amount": "Total Amount",
+    "submit": "CONFIRM AND PAY",
+    "card_title": "Debit or Credit Card",
+    "card_desc": "All major cards accepted",
+    "note": "Note"
+}

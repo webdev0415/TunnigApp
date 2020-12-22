@@ -1,0 +1,15 @@
+{
+    "label":"选择付款方式",
+    "card_number":"卡号:",
+    "expire_date":"到期日:",
+    "cardholder_name": "持卡人姓名:",
+    "ccv": "CCV/CVV:",
+    "deposit_currency": "存款货币",
+    "deposit_amount": "存款金额",
+    "processing_fee": "手续费", 
+    "total_amount": "总金额",
+    "submit": "确认并支付",
+    "card_title": "借记卡或信用卡",
+    "card_desc": "接受所有主要卡",
+    "note": "注意"
+}

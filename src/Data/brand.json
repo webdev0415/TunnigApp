@@ -1,0 +1,446 @@
+[
+    {
+        "id": "93074f3d-5894-4595-9ecf-f7672b9c3016",
+        "brand_name": "Alfa Romeo",
+        "brand_image": "http://localhost:8000/media/images/brand/alfa-romeo_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/alfa_romeo.jpg"
+    },
+    {
+        "id": "23a12f1f-6398-4366-95f4-aeb026678784",
+        "brand_name": "Alpina",
+        "brand_image": "http://localhost:8000/media/images/brand/alpina-2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/alpina.jpg"
+    },
+    {
+        "id": "88bcaaab-7b49-442e-b706-27edbcc5842a",
+        "brand_name": "Alpine",
+        "brand_image": "http://localhost:8000/media/images/brand/alpine_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/alpine.jpg"
+    },
+    {
+        "id": "06f10b52-b07e-43c2-aa7c-c1e368b63179",
+        "brand_name": "Ariel",
+        "brand_image": "http://localhost:8000/media/images/brand/ariel-2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/ariel.jpg"
+    },
+    {
+        "id": "ed289085-7761-4ee0-b918-bb4bed22dd89",
+        "brand_name": "Audi",
+        "brand_image": "http://localhost:8000/media/images/brand/audi_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/audi.jpg"
+    },
+    {
+        "id": "8e42635a-37bc-4bb5-9963-52df7d658f0b",
+        "brand_name": "Bentley",
+        "brand_image": "http://localhost:8000/media/images/brand/bentley_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/bentley.jpg"
+    },
+    {
+        "id": "0c10b9c3-b472-4e1b-bf09-3d98e2fa4dd5",
+        "brand_name": "BMW",
+        "brand_image": "http://localhost:8000/media/images/brand/bmw_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/bmw.jpg"
+    },
+    {
+        "id": "40d03605-cb34-4010-9561-cb1a14d95c22",
+        "brand_name": "Borgward",
+        "brand_image": "http://localhost:8000/media/images/brand/borgward_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/borgward.jpg"
+    },
+    {
+        "id": "ec824611-9ceb-4ce4-bc37-35ee1cac8370",
+        "brand_name": "Bugatti",
+        "brand_image": "http://localhost:8000/media/images/brand/bugatti_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/bugatti.jpg"
+    },
+    {
+        "id": "a967f0dc-39b6-4de7-acd6-23d2e3122c41",
+        "brand_name": "Buick",
+        "brand_image": "http://localhost:8000/media/images/brand/buick_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/buick.jpg"
+    },
+    {
+        "id": "7db42ad3-0369-4768-aa26-8c345dd8f0b7",
+        "brand_name": "Cadillac",
+        "brand_image": "http://localhost:8000/media/images/brand/cadillac_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/cadillac.jpg"
+    },
+    {
+        "id": "9331827a-f515-427f-92a4-12e47917f8da",
+        "brand_name": "Chevrolet",
+        "brand_image": "http://localhost:8000/media/images/brand/chevrolet_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/chevloret.jpg"
+    },
+    {
+        "id": "d02e919a-f0d4-406f-aca3-2982ccfbd9de",
+        "brand_name": "Chrysler",
+        "brand_image": "http://localhost:8000/media/images/brand/chrysler_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/chrysler.jpg"
+    },
+    {
+        "id": "e45caa26-6440-45f3-9488-36acdb4d62ba",
+        "brand_name": "Citroen",
+        "brand_image": "http://localhost:8000/media/images/brand/citroen_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/citroen.jpg"
+    },
+    {
+        "id": "ec3b259e-6b8f-414b-807e-a21590971a37",
+        "brand_name": "Cupra",
+        "brand_image": "http://localhost:8000/media/images/brand/cupra-3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/cupra.jpg"
+    },
+    {
+        "id": "7a1cfff3-51cc-42ef-983a-b17efc6f4a81",
+        "brand_name": "Dacia",
+        "brand_image": "http://localhost:8000/media/images/brand/dacia_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/dacia.jpg"
+    },
+    {
+        "id": "c36c8e36-6e21-466d-b9d6-746fa4ecc382",
+        "brand_name": "Daewoo",
+        "brand_image": "http://localhost:8000/media/images/brand/daewoo_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/daewoo.jpg"
+    },
+    {
+        "id": "df200fb1-4109-4442-9478-483843da6435",
+        "brand_name": "DS",
+        "brand_image": "http://localhost:8000/media/images/brand/ds-2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/ds.jpg"
+    },
+    {
+        "id": "a8a48fd8-85f5-4be5-a59f-fe6e4fff9e52",
+        "brand_name": "Dodge",
+        "brand_image": "http://localhost:8000/media/images/brand/dodge_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/dodge.jpg"
+    },
+    {
+        "id": "a9bb6d1f-6380-4cb0-8a9b-40a691ffe263",
+        "brand_name": "Fiat",
+        "brand_image": "http://localhost:8000/media/images/brand/fiat_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/fiat.jpg"
+    },
+    {
+        "id": "a8a43ba9-c6f6-407b-ba5b-dcb097ae6b85",
+        "brand_name": "Ferrari",
+        "brand_image": "http://localhost:8000/media/images/brand/ferrari_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/ferrari.jpg"
+    },
+    {
+        "id": "b2b15e57-6e0b-461f-aedd-136af4f86a46",
+        "brand_name": "Ford",
+        "brand_image": "http://localhost:8000/media/images/brand/ford_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/ford.jpg"
+    },
+    {
+        "id": "bc9cefbe-9e20-4f10-a071-b39ed0ec7b0d",
+        "brand_name": "Geely",
+        "brand_image": "http://localhost:8000/media/images/brand/geely_4.png",
+        "banner_image": "http://localhost:8000/media/images/banner/geely.jpg"
+    },
+    {
+        "id": "84f0cb5e-4a6e-4972-aeee-2d7a527423ae",
+        "brand_name": "GWM",
+        "brand_image": "http://localhost:8000/media/images/brand/gwm_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/gwm.jpg"
+    },
+    {
+        "id": "02bafdc7-2ec8-4a7a-9de8-4485be0fb853",
+        "brand_name": "Holden",
+        "brand_image": "http://localhost:8000/media/images/brand/holden_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/holden.jpg"
+    },
+    {
+        "id": "fd575ecf-bcf7-4ac5-ae4e-7c4512787af9",
+        "brand_name": "Honda",
+        "brand_image": "http://localhost:8000/media/images/brand/honda_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/honda.jpg"
+    },
+    {
+        "id": "633a7563-f8c1-4a06-9431-a935bf3746b2",
+        "brand_name": "Hyundai",
+        "brand_image": "http://localhost:8000/media/images/brand/hyundai_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/hyundai.jpg"
+    },
+    {
+        "id": "24af1c6e-f5dc-4f8c-9e73-4faaa699f511",
+        "brand_name": "Infiniti",
+        "brand_image": "http://localhost:8000/media/images/brand/infiniti_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/infiniti.jpg"
+    },
+    {
+        "id": "33ad5e41-389e-4d45-94fa-a5f2bbcdec28",
+        "brand_name": "Isuzu",
+        "brand_image": "http://localhost:8000/media/images/brand/isuzu_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/isuzu.jpg"
+    },
+    {
+        "id": "22e7f6e5-8230-420b-b40d-dcc16c791166",
+        "brand_name": "Iveco",
+        "brand_image": "http://localhost:8000/media/images/brand/iveco_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/iveco.jpg"
+    },
+    {
+        "id": "5d84739a-2dee-46c3-8e1c-f6c62a1e8e2e",
+        "brand_name": "JAC",
+        "brand_image": "http://localhost:8000/media/images/brand/jac-motors_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/jac.jpg"
+    },
+    {
+        "id": "17b5dc48-766e-4c4b-ab26-18ca8d712249",
+        "brand_name": "Jaguar",
+        "brand_image": "http://localhost:8000/media/images/brand/jaguar_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/jaguar.jpg"
+    },
+    {
+        "id": "c8b72992-6a1c-41eb-a9c8-13cb0b08d550",
+        "brand_name": "Jeep",
+        "brand_image": "http://localhost:8000/media/images/brand/jeep_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/jeep.jpg"
+    },
+    {
+        "id": "d6ba2548-00e2-4721-b5d5-caf0662f35cb",
+        "brand_name": "Kia",
+        "brand_image": "http://localhost:8000/media/images/brand/kia_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/kia.jpg"
+    },
+    {
+        "id": "37a2176d-52af-4516-9fa3-c0dc1db50829",
+        "brand_name": "KTM",
+        "brand_image": "http://localhost:8000/media/images/brand/ktm_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/ktm.jpg"
+    },
+    {
+        "id": "15a2ce25-143f-4432-b98e-b1e062fc9753",
+        "brand_name": "Lamborghini",
+        "brand_image": "http://localhost:8000/media/images/brand/lamborghini_2.png",
+        "banner_image": null
+    },
+    {
+        "id": "851bf403-c561-45e7-b1a8-7ab095ecdda4",
+        "brand_name": "Lancia",
+        "brand_image": "http://localhost:8000/media/images/brand/lancia_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/lancia.jpg"
+    },
+    {
+        "id": "9e5f8896-9654-47e1-9e3a-95cfe1389b5e",
+        "brand_name": "Landrover",
+        "brand_image": "http://localhost:8000/media/images/brand/land-rover_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/landrover.jpg"
+    },
+    {
+        "id": "b1509b52-ec93-4362-8f2f-c58ad9e047bc",
+        "brand_name": "Lexus",
+        "brand_image": "http://localhost:8000/media/images/brand/lexus_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/lexus.jpg"
+    },
+    {
+        "id": "56b38496-9bee-4083-946b-d953a2eaa69e",
+        "brand_name": "Lincoln",
+        "brand_image": "http://localhost:8000/media/images/brand/lincoln_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/lincoln.jpg"
+    },
+    {
+        "id": "9103b1d8-523f-403a-82da-2bda4559cbd3",
+        "brand_name": "Lotus",
+        "brand_image": "http://localhost:8000/media/images/brand/lotus_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/lotus.jpg"
+    },
+    {
+        "id": "590a4d60-e14a-49da-8b3e-cc2479d40a3d",
+        "brand_name": "Mahindra",
+        "brand_image": "http://localhost:8000/media/images/brand/mahindra_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/mahindra.jpg"
+    },
+    {
+        "id": "b16bf4a9-f66a-48b5-a2db-8f34bfabe32f",
+        "brand_name": "Man",
+        "brand_image": "http://localhost:8000/media/images/brand/man_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/man.jpg"
+    },
+    {
+        "id": "17613d45-11b7-4eb4-a9e3-6e87f29ccf01",
+        "brand_name": "Maserati",
+        "brand_image": "http://localhost:8000/media/images/brand/maserati_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/maserati.jpg"
+    },
+    {
+        "id": "e25b3335-31ce-4b1b-8c3f-c6bae325d735",
+        "brand_name": "Mazda",
+        "brand_image": "http://localhost:8000/media/images/brand/mazda_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/mazda.jpg"
+    },
+    {
+        "id": "cf2a9895-1e71-4546-9cc6-2d871346af25",
+        "brand_name": "Mc Laren",
+        "brand_image": "http://localhost:8000/media/images/brand/mclaren_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/mc.jpg"
+    },
+    {
+        "id": "c4c036d1-d544-461a-a725-b51bd6e73c5f",
+        "brand_name": "Mercedes",
+        "brand_image": "http://localhost:8000/media/images/brand/mercedes_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/mercedes.jpg"
+    },
+    {
+        "id": "7a752113-8b00-472e-9fe8-d2a1d88e58c5",
+        "brand_name": "MG",
+        "brand_image": "http://localhost:8000/media/images/brand/mg_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/mg.jpg"
+    },
+    {
+        "id": "2e7fe1d7-74e1-4446-892c-221b9df19179",
+        "brand_name": "Mini",
+        "brand_image": "http://localhost:8000/media/images/brand/mini_2.png",
+        "banner_image": null
+    },
+    {
+        "id": "0f8e3900-be7d-4f9c-86b6-8b8a21b1d3c4",
+        "brand_name": "Mitsubishi",
+        "brand_image": "http://localhost:8000/media/images/brand/mitsubishi_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/mitsubishi.jpg"
+    },
+    {
+        "id": "31b981d9-bc63-4915-9ba4-4ebccc3f073b",
+        "brand_name": "Nissan",
+        "brand_image": "http://localhost:8000/media/images/brand/nissan_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/nissan.jpg"
+    },
+    {
+        "id": "1bc9f4b0-d7d5-495b-a807-6befdd512ce1",
+        "brand_name": "Opel",
+        "brand_image": "http://localhost:8000/media/images/brand/opel_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/opel.jpg"
+    },
+    {
+        "id": "7531e96c-1547-4d56-af4e-6342f8aea14b",
+        "brand_name": "Pagani",
+        "brand_image": "http://localhost:8000/media/images/brand/pagani_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/pagani.jpg"
+    },
+    {
+        "id": "309c22d3-9acb-4fe4-aa06-8dba7d26dc0f",
+        "brand_name": "Peugeot",
+        "brand_image": "http://localhost:8000/media/images/brand/peugeot_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/peugeot.jpg"
+    },
+    {
+        "id": "c48c9aea-d350-4799-851a-669a79e0116b",
+        "brand_name": "PGO",
+        "brand_image": "http://localhost:8000/media/images/brand/pgo_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/pgo.jpg"
+    },
+    {
+        "id": "1fd0065c-ebcd-4f1e-bb07-f83bffc7bba3",
+        "brand_name": "Piaggio",
+        "brand_image": "http://localhost:8000/media/images/brand/piaggio_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/piaggio.jpg"
+    },
+    {
+        "id": "60f296cb-7c4c-436c-8344-28c662563d13",
+        "brand_name": "Porsche",
+        "brand_image": "http://localhost:8000/media/images/brand/porsche_2.png",
+        "banner_image": null
+    },
+    {
+        "id": "5f07d432-7222-489b-8fe7-979db007caa1",
+        "brand_name": "Renault",
+        "brand_image": "http://localhost:8000/media/images/brand/renault_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/renault.jpg"
+    },
+    {
+        "id": "a25d8b25-8532-45f2-91ab-be514d498c18",
+        "brand_name": "Rolls Royce",
+        "brand_image": "http://localhost:8000/media/images/brand/rolls-royce_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/rolls_royce.jpg"
+    },
+    {
+        "id": "ba35df83-93c4-4c85-85c4-7fb41e653629",
+        "brand_name": "Saab",
+        "brand_image": "http://localhost:8000/media/images/brand/saab_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/saab.jpg"
+    },
+    {
+        "id": "01ed8267-cdff-43a1-ac00-8e6c2b1ecebc",
+        "brand_name": "Sumsung",
+        "brand_image": "http://localhost:8000/media/images/brand/samsung_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/samsung.jpg"
+    },
+    {
+        "id": "ea6d2e70-5424-4367-91b8-d170d55a5146",
+        "brand_name": "Scion",
+        "brand_image": "http://localhost:8000/media/images/brand/scion-2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/scion.jpg"
+    },
+    {
+        "id": "fd521329-40fa-4697-84b0-38a80e4ff33a",
+        "brand_name": "Seat",
+        "brand_image": "http://localhost:8000/media/images/brand/seat_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/seat.jpg"
+    },
+    {
+        "id": "ffd984e3-d3f9-4bcb-8fa7-5bd84c3f4222",
+        "brand_name": "Skoda",
+        "brand_image": "http://localhost:8000/media/images/brand/skoda_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/skoda.jpg"
+    },
+    {
+        "id": "7765e98e-dbbd-4b15-960d-dabd31336cbf",
+        "brand_name": "Smart",
+        "brand_image": "http://localhost:8000/media/images/brand/smart_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/smart.jpg"
+    },
+    {
+        "id": "ae5a8e98-340c-4cf0-8066-949332930ae6",
+        "brand_name": "Ssang Yong",
+        "brand_image": "http://localhost:8000/media/images/brand/ssangyong_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/ssangyong.jpg"
+    },
+    {
+        "id": "9c1605b8-9c8b-4915-b2d4-e46b14df10f6",
+        "brand_name": "Subaru",
+        "brand_image": "http://localhost:8000/media/images/brand/subaru_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/subaru.jpg"
+    },
+    {
+        "id": "52faa11f-5ec5-4ce5-838c-f97f2e3f134d",
+        "brand_name": "Suzuki",
+        "brand_image": "http://localhost:8000/media/images/brand/suzuki_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/suzuki.jpg"
+    },
+    {
+        "id": "e05326a5-c2e7-4a9e-8a0a-757dc2e72819",
+        "brand_name": "Tata",
+        "brand_image": "http://localhost:8000/media/images/brand/tata_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/tata.jpg"
+    },
+    {
+        "id": "147f4e90-de1d-436b-b5a8-41d349f903cf",
+        "brand_name": "Toyota",
+        "brand_image": "http://localhost:8000/media/images/brand/toyota_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/toyota.jpg"
+    },
+    {
+        "id": "53615136-0271-45ac-b6e1-c93790c14099",
+        "brand_name": "Volkswagen",
+        "brand_image": "http://localhost:8000/media/images/brand/volkswagen_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/volkswagen.jpg"
+    },
+    {
+        "id": "dcec2ab3-d567-48c4-ae59-257d8a54cc7a",
+        "brand_name": "Volvo",
+        "brand_image": "http://localhost:8000/media/images/brand/volvo_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/volvo.jpg"
+    },
+    {
+        "id": "d1ab1c27-aba5-4fb5-8d1a-faa504318da2",
+        "brand_name": "Westfield",
+        "brand_image": "http://localhost:8000/media/images/brand/westfield_3.png",
+        "banner_image": "http://localhost:8000/media/images/banner/westfield.jpg"
+    },
+    {
+        "id": "395fb48f-48f0-4800-a7e9-04713bfe0e44",
+        "brand_name": "Wiesmann",
+        "brand_image": "http://localhost:8000/media/images/brand/wiesmann_2.png",
+        "banner_image": "http://localhost:8000/media/images/banner/wiesmann.jpg"
+    }
+]

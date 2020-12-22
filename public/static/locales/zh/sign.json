@@ -1,0 +1,21 @@
+{
+    "signin":"登入",
+    "name":"名称",
+    "email":"电子邮件",
+    "signup": "注册",
+    "password": "密码",
+    "confpass": "确认密码",
+    "user_level": "用户等级",
+    "local_shop": "当地的商店", 
+    "subdealer": "转售商",
+    "regular_user": "普通用户",
+    "credit_point": "信用点",
+    "nomatch": "没有匹配",
+    "noemail": "没有验证电子邮件",
+    "nocredential": "电子邮件或密码不正确。",
+    "success1": "欢迎",
+    "success2": "创建成功。 请验证您的电子邮件",
+    "error1": "请再次检查您的网络。 无法与REST API服务器通信",
+    "error2": "未知错误",
+    "badpwdreq": "密码长度太短。 密码必须包含至少 8 个字符。 这个密码太常见了。"
+}

@@ -1,0 +1,14 @@
+{
+    "menuitem1":"HOME",
+    "menuitem2":"BLOGS",
+    "menuitem21":"NEWS",
+    "menuitem22":"TUNING",
+    "menuitem23":"Compose",
+    "menuitem3":"CHIP TUNING",
+    "menuitem4":"FAQ",
+    "menuitem5":"LOGIN",
+    "menuitem51":"SignUp",
+    "menuitem6": "SOFTWARE",
+    "searchmessage":"Search by Brand or Model",
+    "logout": "Logout"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "initreact",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "dotenv": "^8.2.0",
+    "draft-js": "^0.11.6",
+    "draftjs-to-html": "^0.9.1",
+    "i18next": "^19.6.2",
+    "i18next-xhr-backend": "^3.2.2",
+    "is-empty": "^1.2.0",
+    "jquery": "^3.5.1",
+    "jwt-decode": "^2.2.0",
+    "node-sass": "^4.14.1",
+    "query-string": "^6.13.1",
+    "react": "^16.12.0",
+    "react-alert": "^7.0.2",
+    "react-alert-template-basic": "^1.0.0",
+    "react-async-script-loader": "^0.3.0",
+    "react-dom": "^16.12.0",
+    "react-draft-wysiwyg": "^1.14.5",
+    "react-html-parser": "^2.0.2",
+    "react-i18next": "^11.7.0",
+    "react-loader-spinner": "^3.1.14",
+    "react-redux": "^7.2.0",
+    "react-responsive-carousel": "^3.2.9",
+    "react-router-dom": "^5.2.0",
+    "react-script": "^2.0.5",
+    "react-scripts": "3.4.1",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "save": "^2.4.0",
+    "styled-components": "^5.1.1",
+    "styled-components-grid": "^2.2.2",
+    "styled-media-query": "^2.1.2",
+    "suneditor-react": "^2.13.1",
+    "validator": "^13.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "12.10.0",
+    "npm": "6.10.3"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "https://yectuningapp.herokuapp.com"
+}
